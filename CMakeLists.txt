@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(serial)
 
+set(CMAKE_INSTALL_PREFIX /usr/local)
+
 # Find catkin
 find_package(catkin REQUIRED)
 

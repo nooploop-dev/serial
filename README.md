@@ -34,7 +34,7 @@ Optional (for documentation):
 
 Get the code:
 
-    git clone https://github.com/wjwwood/serial.git
+    git clone https://github.com/nooploop-dev/serial.git
 
 Build:
 
