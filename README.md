@@ -44,13 +44,9 @@ Build and run the tests:
 
     make test
 
-Build the documentation:
-
-    make doc
-
 Install:
 
-    make install
+    sudo make install
 
 ### License
 
